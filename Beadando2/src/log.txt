@@ -1,0 +1,3 @@
+Hello világ!
+Szeretném eltárolni ez a szöveget.
+Üdv
